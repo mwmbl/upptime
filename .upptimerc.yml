@@ -6,7 +6,7 @@ sites:
   - name: Mwmbl Front End
     url: https://mwmbl.org
   - name: Mwmbl API
-    url: https://api.mwmbl.org
+    url: https://api.mwmbl.org/api/v1/search/?s=test
   - name: Mwmbl Book
     url: https://book.mwmbl.org
 
@@ -17,7 +17,7 @@ status-website:
  # baseUrl: /your-repo-name
   logoUrl: https://mwmbl.org/logo.svg
   name: Mwmbl Status
-  introTitle: "[Mwmbl](https://mwmbl.org] is the free and open-source search engine powered by community"
+  introTitle: "[Mwmbl](https://mwmbl.org) is the free and open-source search engine powered by community"
   introMessage: "Please join our [community](https://matrix.to/#/#mwmbl:matrix.org) for news and updates"
   navbar:
     - title: Status
