@@ -22,19 +22,19 @@
     "url": "https://api.mwmbl.org/api/v1/search/?s=test",
     "icon": "https://icons.duckduckgo.com/ip3/api.mwmbl.org.ico",
     "slug": "mwmbl-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 749,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "98.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
+    "time": 704,
+    "timeDay": 708,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2026-04-14": 0
+      "2026-04-14": 17
     }
   },
   {
