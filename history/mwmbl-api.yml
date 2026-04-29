@@ -1,7 +1,7 @@
 url: https://api.mwmbl.org/api/v1/search/?s=test
 status: up
 code: 200
-responseTime: 546
-lastUpdated: 2026-04-28T23:45:10.754Z
+responseTime: 540
+lastUpdated: 2026-04-29T23:44:49.993Z
 startTime: 2026-04-13T15:20:02.962Z
 generator: Upptime <https://github.com/upptime/upptime>
