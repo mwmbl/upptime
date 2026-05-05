@@ -1,7 +1,7 @@
 url: https://api.mwmbl.org/api/v1/search/?s=test
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-05T16:26:20.229Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2026-05-05T17:58:01.802Z
 startTime: 2026-04-13T15:20:02.962Z
 generator: Upptime <https://github.com/upptime/upptime>
