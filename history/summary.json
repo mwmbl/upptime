@@ -4,16 +4,16 @@
     "url": "https://mwmbl.org",
     "icon": "https://icons.duckduckgo.com/ip3/mwmbl.org.ico",
     "slug": "mwmbl-front-end",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "98.39%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.39%",
     "time": 541,
-    "timeDay": 368,
-    "timeWeek": 494,
-    "timeMonth": 528,
+    "timeDay": 442,
+    "timeWeek": 496,
+    "timeMonth": 531,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2026-04-14": 55,
@@ -25,7 +25,7 @@
       "2026-05-18": 270,
       "2026-05-25": 241,
       "2026-05-29": 193,
-      "2026-06-04": 5
+      "2026-06-04": 105
     }
   },
   {
@@ -33,16 +33,16 @@
     "url": "https://api.mwmbl.org/api/v1/search/?s=test",
     "icon": "https://icons.duckduckgo.com/ip3/api.mwmbl.org.ico",
     "slug": "mwmbl-api",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "98.56%",
+    "status": "up",
+    "uptime": "98.43%",
+    "uptimeDay": "93.07%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "98.43%",
     "time": 553,
-    "timeDay": 343,
-    "timeWeek": 546,
-    "timeMonth": 526,
+    "timeDay": 431,
+    "timeWeek": 542,
+    "timeMonth": 528,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2026-04-14": 71,
@@ -54,7 +54,7 @@
       "2026-05-18": 260,
       "2026-05-25": 236,
       "2026-05-29": 188,
-      "2026-06-04": 0
+      "2026-06-04": 100
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 253,
-    "timeWeek": 214,
-    "timeMonth": 180,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 205,
+    "timeWeek": 207,
+    "timeMonth": 182,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
