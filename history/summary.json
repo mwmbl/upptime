@@ -4,15 +4,15 @@
     "url": "https://mwmbl.org",
     "icon": "https://icons.duckduckgo.com/ip3/mwmbl.org.ico",
     "slug": "mwmbl-front-end",
-    "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "90.45%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "97.59%",
+    "uptimeDay": "78.76%",
+    "uptimeWeek": "91.68%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "97.59%",
     "time": 565,
-    "timeDay": 591,
-    "timeWeek": 689,
+    "timeDay": 585,
+    "timeWeek": 679,
     "timeMonth": 570,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -29,7 +29,7 @@
       "2026-06-05": 169,
       "2026-06-06": 148,
       "2026-06-07": 243,
-      "2026-06-08": 5
+      "2026-06-08": 173
     }
   },
   {
@@ -37,16 +37,16 @@
     "url": "https://api.mwmbl.org/api/v1/search/?s=test",
     "icon": "https://icons.duckduckgo.com/ip3/api.mwmbl.org.ico",
     "slug": "mwmbl-api",
-    "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "97.86%",
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "79.43%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "97.65%",
     "time": 566,
-    "timeDay": 539,
-    "timeWeek": 653,
-    "timeMonth": 553,
+    "timeDay": 549,
+    "timeWeek": 646,
+    "timeMonth": 554,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-04-14": 71,
@@ -61,7 +61,8 @@
       "2026-06-04": 100,
       "2026-06-05": 164,
       "2026-06-06": 144,
-      "2026-06-07": 234
+      "2026-06-07": 234,
+      "2026-06-08": 168
     }
   },
   {
