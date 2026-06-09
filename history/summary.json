@@ -4,17 +4,17 @@
     "url": "https://mwmbl.org",
     "icon": "https://icons.duckduckgo.com/ip3/mwmbl.org.ico",
     "slug": "mwmbl-front-end",
-    "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "97.60%",
-    "time": 565,
-    "timeDay": 585,
-    "timeWeek": 679,
-    "timeMonth": 570,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "97.54%",
+    "uptimeDay": "84.21%",
+    "uptimeWeek": "91.15%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "97.54%",
+    "time": 567,
+    "timeDay": 635,
+    "timeWeek": 695,
+    "timeMonth": 572,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2026-04-14": 55,
       "2026-04-16": 41,
@@ -29,7 +29,8 @@
       "2026-06-05": 169,
       "2026-06-06": 148,
       "2026-06-07": 243,
-      "2026-06-08": 178
+      "2026-06-08": 210,
+      "2026-06-09": 17
     }
   },
   {
@@ -37,16 +38,16 @@
     "url": "https://api.mwmbl.org/api/v1/search/?s=test",
     "icon": "https://icons.duckduckgo.com/ip3/api.mwmbl.org.ico",
     "slug": "mwmbl-api",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "87.43%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "97.66%",
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "84.88%",
+    "uptimeWeek": "91.48%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "97.60%",
     "time": 566,
-    "timeDay": 549,
-    "timeWeek": 646,
-    "timeMonth": 554,
+    "timeDay": 570,
+    "timeWeek": 652,
+    "timeMonth": 557,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-04-14": 71,
@@ -62,7 +63,8 @@
       "2026-06-05": 164,
       "2026-06-06": 144,
       "2026-06-07": 234,
-      "2026-06-08": 168
+      "2026-06-08": 200,
+      "2026-06-09": 17
     }
   },
   {
@@ -76,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 179,
-    "timeWeek": 205,
-    "timeMonth": 180,
-    "timeYear": 186,
+    "time": 187,
+    "timeDay": 271,
+    "timeWeek": 213,
+    "timeMonth": 181,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   }
 ]
